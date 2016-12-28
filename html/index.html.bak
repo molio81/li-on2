@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        
+        <meta charset="UTF-8">
+        <title>LI-ON</title>
+        <script type="text/javascript" src="../librerias/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="../librerias/font/css/font-awesome.css">
+        <link rel="stylesheet" type="text/css" href="../css/estyles.css"/>
+        <link rel="icon" href="../img/lyon.jpg" type="jpg">
+        <meta name="keywords" content="fitness, training, supplements, products, sercices, gym" />
+      	
+    </head>
+
+    <body>
+
+        <header>
+
+            <table border="0">
+                
+                <tr>
+                    <td id="icon" rowspan="2">
+                        <a href="../html/index.html"><img src="../img/lyon.jpg"></a>
+                    </td>
+                    <td rowspan="2">
+                            <b id="titulo">LI-ON</b><br><b id="titulo2">Supplements and trainning</b>
+                    </td>
+                    <td id="redes">
+                        <a href="../html/index.html"><img src="../img/logo_face1.png"></a>
+                        <a href="../html/index.html"><img src="../img/logo_twiter1.png"></a>
+                        <a href="../html/index.html"><img src="../img/logo_yout.png"></a>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td>
+                        
+                <nav>
+
+                    <ul class="menuUL">
+
+                        <li>
+                            <a href="../html/index.html">INICIO</a>
+                        </li>
+
+                        <li>
+                            <a href="../html/colegio.html">PRODUCTOS</a>
+                        </li>
+
+                        <li>
+                            <a href="../html/sedes.html">SERVICIOS</a>
+                        </li>
+
+                        <li>
+                            <a href="../html/galeria.html">GALERÍA</a>
+                        </li>
+
+                        <li>
+                            <a href="../html/galeria.html">CONTÁCTANOS</a>
+                        </li>
+                        
+                    </ul>
+
+                </nav>
+
+                    </td>
+
+                </tr>
+
+            </table>
+            
+        </header>
+ 
+            <section>
+                <table id="v_noti" cellspacing="20" border="0px">
+                                
+                </table><br>
+            </section>
+	            
+            <aside id="slider">
+
+
+
+            </aside>
+
+            <div>
+                <table id="abajo" cellspacing="10" border="0px">
+
+                    <tr>
+                        
+                        <td id="aba">
+                            
+                        hola
+
+                        </td>
+
+                        <td id="aba">
+                            
+                            que
+                            
+                        </td>
+
+                        <td id="aba">
+                            
+                            mas?
+                            
+                        </td>
+
+                    </tr>
+                                
+                </table>
+            </div>
+	
+	
+        <footer>
+
+        <table cellspacing="10" border="0px white">
+
+                    <tr>
+                        
+                        <td id="foot2" rowspan="2">
+
+                            <a href="../html/index.html"><img src="../img/lyon.jpg"></a>
+                            
+                        </td>
+
+                        <td id="foot3" colspan="5">
+
+                            <b id="titulo_f">LI-ON</b><b id="titulo2">Supplements and trainning</b>
+                            <hr color="#fac754" size=3>
+
+                        </td>
+
+                    </tr>
+
+                    <tr>
+                       
+                        <td id="foot1">
+                            
+                                    <strong><a href="../html/index.html">INICIO</a></strong>
+                            
+                        </td>
+
+                        <td id="foot1">
+                           
+                                    <STRONG><a href="../html/colegio.html">PRODUCTOS</a></STRONG><br>
+                                    <a href="../html/sedes.html">SUPLEMENTOS</a><br>
+                                    <a href="../html/galeria.html">VITAMINAS</a><br>
+                                    <a href="../html/galeria.html">HORMONAS</a>
+                               
+                        </td>
+
+                        <td id="foot1">
+
+                                    <STRONG><a href="../html/colegio.html">SERVICIOS</a></STRONG><br>
+                                    <a href="../html/sedes.html">ASESORIAS</a><br>
+                                    <a href="../html/galeria.html">ENTRENAMINETOS</a><br>
+                                    <a href="../html/galeria.html">TALLERES</a>
+                               
+                        </td>
+
+                        <td id="foot1">
+                            
+                                    <STRONG><a href="../html/colegio.html">GALERIA</a></STRONG><br>
+                                    <a href="../html/sedes.html">FOTOS</a><br>
+                                    <a href="../html/galeria.html">VIDEOS</a>
+                                
+                        </td>
+
+                        <td id="foot1">
+                            
+                                    <STRONG><a href="../html/colegio.html">CONTÁCTANOS</a></STRONG>
+                             
+                        </td>
+
+                    </tr>
+                                
+                </table>
+
+        </footer>
+                    
+    </body>
+</htm

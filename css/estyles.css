@@ -1,0 +1,228 @@
+body
+{
+	background-image: url("../img/gym.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+header
+{
+	width: 99%;
+	background-color: black;
+	opacity: .9;
+	border: 0px solid red;
+	border-radius: 10px;
+	position: relative;
+	margin: 2px auto;
+	box-shadow: 3px 3px 3px 0 grey;
+}
+
+
+#icon
+{
+	width: 15%;
+}
+
+#icon>a>img
+{
+	width: 99%;
+	margin: 0px auto;
+	margin-left: 20px;
+	margin-right: 30px;
+}
+
+#titulo
+{
+	width: 40%;
+	border: 0px solid black;
+	font: bold 9em/1 'Bauhaus 93', Arial, Helvetica; 
+	color: white;
+	margin-left: 50px;
+
+}
+
+#titulo_f
+{
+	border: 0px solid black;
+	font: bold 5em/1 'Bauhaus 93', Arial, Helvetica; 
+	margin-left: 10px;
+
+}
+
+#titulo2
+{
+	width: 40%;
+	border: 0px solid black;
+	font: 1.8em/.3 'Bauhaus 93', Arial, Helvetica;
+	color: #fac754;
+	text-shadow: 2px 2px 1px rgba(150, 150, 150, 1);
+	margin-left: 50px;
+
+}
+
+#redes
+{
+	width: 50%;
+	border: 0px solid black;
+	margin: 20px auto;
+	text-align: right;
+	vertical-align: top;
+}
+
+#redes>a>img
+{
+	width: 5%;
+	margin: 20px auto;
+	margin-right: 20px;
+}
+
+nav
+{
+    margin: 0px auto;
+    background-color: none;
+    border-radius: 8px;
+    padding: 0px;
+    text-align: center;
+    vertical-align: middle;
+    background:#222222;
+	border:1px solid #111111;
+	float:left;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px auto;
+    padding: 0px auto;
+    overflow: hidden;
+    border: solid 3px black;
+    border-radius: 10px;
+    opacity: 10;
+    width: 95%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-family: "Bauhaus 93";
+    font-weight: bold;
+}
+
+li a:hover {
+    background-color: black;
+    color: #fac754;
+    text-shadow: 2px 2px 2px grey;
+    padding: 5px 15px;
+    font-size: 1.1em;
+}
+
+section
+{
+	opacity: 10;
+	margin: 5px auto;
+	width: 99%;
+	position: relative;
+	border: 0px solid;
+}
+
+
+#abajo
+{
+	width: 100%;
+	float: bottom;
+	margin: 0px auto;
+
+}
+
+#aba
+{
+	width: 32%;
+	height: 200px;
+	margin: 10px auto;
+	padding: 10px auto;
+	padding-left: 20px;
+	border: 1px solid;
+	background-color: white;
+	text-align: justify;
+	opacity: .9;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px 0; 
+	font: bold 1em/1 'Calibri', Arial, Helvetica;
+    letter-spacing: 1px;
+}
+
+footer
+{
+	background-color: black;
+	opacity: .9;
+	border-radius: 10px;
+	border: 0px solid;
+	box-shadow: 0 10px 10px 0;
+	text-align: right;
+	width: 98%;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	position: relative;
+	margin: 2px auto;
+	box-shadow: 5px 5px 5px 0 grey;
+}
+
+footer>table
+{
+	width: 95%;
+	color: white;
+    text-decoration: none;
+	margin: 10px auto;
+	text-align: center;
+
+}
+
+#foot2
+{
+	width: 15%;
+}
+
+#foot2>a>img
+{
+	width: 98%;
+}
+
+#foot1
+{
+	vertical-align: top;
+}
+
+#foot3
+{
+	vertical-align: top;
+	text-align: left;
+}
+
+#foot1>a
+{
+	color: white;
+    text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    font: bold 1em/1 'Calibri', Arial, Helvetica;
+    letter-spacing: 1px;
+}
+
+#foot1>strong>a
+{
+	color: #fac754;
+    text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    font: bold 1em/1 'Bauhaus 93', Arial, Helvetica;
+    letter-spacing: 1px;
+}
+
